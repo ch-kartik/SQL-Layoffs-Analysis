@@ -35,3 +35,4 @@ This project demonstrates a complete SQL workflow on a real-world layoffs datase
 - Some companies laid off 100% of their workforce
 - Major impact observed in US-based companies
 
+Dataset Inspiration & Learning Reference: “Alex The Analyst – SQL Project Series”
